@@ -1,0 +1,8 @@
+google-generativeai
+groq
+python-dotenv
+yfinance
+python-multipart
+fastapi
+sqlalchemy
+--upgrade phi
