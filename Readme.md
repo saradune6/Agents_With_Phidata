@@ -1,3 +1,4 @@
+## To Run Use these Command 
 python finance_agents.py
 python web.py
 python image_agents.py
